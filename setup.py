@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kay-package", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Kathy Roma",
     author_email="ekaterina-r@lambdastudents.com",
     description="Convertor time duration columns",

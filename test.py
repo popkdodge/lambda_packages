@@ -1,4 +1,4 @@
-import k_pack as kp
+import kay_package as kp
 import pandas as pd
 
 df = pd.read_csv("test.csv") 
