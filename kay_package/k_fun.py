@@ -3,7 +3,7 @@ import re
 import pandas
 
 
-def get_match(string,pattern):
+def get_match(string, pattern):
     # a service function to look for patterns in strings
     found = None
     if not string != string:
