@@ -12,8 +12,8 @@ pip install --index-url https://test.pypi.org/simple/ kay_package==0.0.3
 ## Usage
 
 ```python
-    import kay_package as kp
-    kp.convert_time(dataframe_column)
+import kay_package as kp
+kp.convert_time(dataframe_column)
 ```
 
 ## Testing 
