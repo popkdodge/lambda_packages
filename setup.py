@@ -10,8 +10,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="kay-package", # Replace with your own username
-    version="0.0.2",
+    name="kay-package", 
+    version="0.0.3",
     author="Kathy Roma",
     author_email="ekaterina-r@lambdastudents.com",
     description="Convertor time duration columns",
